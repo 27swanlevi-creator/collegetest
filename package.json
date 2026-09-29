@@ -1,0 +1,1 @@
+{"name":"major-minus","private":true,"type":"module","scripts":{"start":"node server.mjs","check":"node --check src/main.js && node --check server.mjs"}}
